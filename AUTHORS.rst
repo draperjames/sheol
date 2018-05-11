@@ -10,4 +10,6 @@ Development Lead
 Contributors
 ------------
 
+* Michael Davidson
+
 None yet. Why not be the first?
